@@ -8,12 +8,19 @@ process of compiling each section:
 
 Part I:
 
+
 g++ -c 320Lab03.cpp
+
 g++ 320Lab03.o -o 320Lab03
+
 ./320Lab03
+
 
 Part II:
 
+
 g++ -c 320Lab03-2.cpp
+
 g++ 320Lab03-2.o -o 320Lab03-2
+
 ./320Lab03-2
